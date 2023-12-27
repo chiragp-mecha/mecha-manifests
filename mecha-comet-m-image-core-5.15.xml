@@ -26,7 +26,7 @@
 
   <project name="meta-mecha" path="sources/meta-mecha" remote="mecha-org" revision="def664bf7246c1b0e2ca18cdd8143a63ec45f421" upstream="kirkstone"/>
   <project name="meta-mecha-imx" path="sources/meta-mecha-imx" remote="mecha-org" revision="c83d0dc04aa5aec02e0a581b1689ad356d1f4bf8" upstream="kirkstone">
-    <linkfile dest="edge-setup-release.sh" src="edge-setup-release.sh"/>
+    <linkfile dest="comet-m-setup-release.sh" src="comet-m-setup-release.sh"/>
   </project>
 
   <project name="meta-virtualization" path="sources/meta-virtualization" remote="yocto" revision="9482648daf0bb42ff3475e7892542cf99f3b8d48" upstream="master"/>
